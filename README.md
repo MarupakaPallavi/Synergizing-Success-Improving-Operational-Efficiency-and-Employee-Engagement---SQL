@@ -31,8 +31,7 @@ influence employee retention and performance.
 underutilizing technology in several departments, leading to inefficiencies. Weak market research and unclear company direction could affect long-term growth and competitiveness.
 ## Data set 
 
-● https://drive.google.com/file/d/1LcbxWSQrTjYbEyJuFqLf487_fYZR9
-Osm/view?usp=sharing
+● https://drive.google.com/file/d/1LcbxWSQrTjYbEyJuFqLf487_fYZR9Osm/view?usp=sharing
 ## Analysis Questions
 
 1. ### Employee Performance:
